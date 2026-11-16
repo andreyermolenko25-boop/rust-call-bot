@@ -1,0 +1,12 @@
+keys.env
+settings.env
+.env
+*.json
+*.session
+*.session-journal
+transcripts/
+samples/
+.venv/
+__pycache__/
+.ruff_cache/
+*.pyc
